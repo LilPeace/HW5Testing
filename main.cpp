@@ -60,11 +60,5 @@ else if (Racer2Time == Racer3Time)
   cout << "We have a TIE! " << Racer2 << " & " << Racer3 << "    win!\n";
   }
 
-//Racer 1 & 3 TIE
-else if (Racer1Time == Racer3Time)
-  {
-  if (Racer1Time != Racer2Time)
-  cout << "We have a TIE! " << Racer1 << " & " << Racer3 << " win!\n";
-  }
 }
 }  
